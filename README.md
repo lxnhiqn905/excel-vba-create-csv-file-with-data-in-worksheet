@@ -8,3 +8,6 @@ Create csv file with 2 ways.
 
 ## 2. Read and write line by line.
   - Not limit records.
+
+### Notes: Need import Microsoft ActiveX Data Objects 6.1 Library
+- Tool -> References -> Find Microsoft ActiveX Data Objects 6.1 Library and select it 
